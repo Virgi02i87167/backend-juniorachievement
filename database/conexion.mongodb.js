@@ -3,7 +3,7 @@ import { configDotenv } from "dotenv";
 
 configDotenv()
 
-let URLDB = "mongodb+srv://Virgilio21:VZPg7tqYatHa1MSg@cluster0.ondic.mongodb.net/myProducts?retryWrites=true&w=majority&appName=Cluster0"
+let URLDB = "mongodb+srv://Virgilio21:1TjeisygJSOsaUo2@cluster0.ondic.mongodb.net/myProducts?retryWrites=true&w=majority&appName=Cluster0"
 
 
 const MongoConexion = async () => {
